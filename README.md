@@ -18,11 +18,11 @@ Analysis, simulation and control of a six-degree-of-freedom robot
 ---
 ## Inverse Kinematic
 - Calculating Inverse Kinematic with Geometric Method
-<p align="Left">
+<p align="center">
   <img src="./Pictures/InverseKinematic1.png" width="45%" height="45%" /> 
   <img src="./Pictures/InverseKinematic2.png" width="45%" height="45%" /> 
 </p>
-<p align="Left">
+<p align="center">
   <img src="./Pictures/InverseKinematic3.png" width="70%" height="70%" /> 
 </p>
 ---
