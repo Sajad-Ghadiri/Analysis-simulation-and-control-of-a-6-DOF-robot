@@ -1,14 +1,24 @@
 # Analysis-simulation-and-control-of-a-6-DOF-robot
 Analysis, simulation and control of a six-degree-of-freedom robot
 
-## Simulation of robot
+## Design of robot in SolidWorks
 ---
-- Design and Simulation of robot using Solidworks
+- Design and Simulation of robot using SolidWorks
 <p align="center">
   <img src="./Pictures/Test1.png" /> 
 </p>
 
 ---
+- Classic & Modified Denavit-Hartenberg Parameter Table
+<p align="Left">
+  <img src="./Pictures/DenavitHartenbergParameterTables.png" /> 
+</p>
+<p align="Right">
+  <img src="./Pictures/ModifiedDenavitHartenbergParameterTables.png" /> 
+</p>
+
+---
+Denavit-Hartenberg Parameter Tables
 
 ## Contributers
 <table>
