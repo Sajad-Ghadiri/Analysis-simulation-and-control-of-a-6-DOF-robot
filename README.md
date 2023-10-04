@@ -14,10 +14,14 @@ Analysis, simulation and control of a six-degree-of-freedom robot
   <img src="./Pictures/DenavitHartenbergParameterTables.png" width="45%" height="45%" /> 
   <img src="./Pictures/ModifiedDenavitHartenbergParameterTables.png" width="48%" height="48%" /> 
 </p>
-
 ---
 ## Inverse Kinematic
 - Calculating Inverse Kinematic with Geometric Method
+**The Cauchy-Schwarz Inequality**
+
+```math
+D(q)=\sum_{i=1}^n\left(m_i * J_{v_i}(q)^T * J_{v_i}(q)+J_{w_i}(q)^T * R_i(q) * I_i * R_i(q)^T * J_{w_i}(q)\right)
+```
 <p align="center">
   <img src="./Pictures/InverseKinematic1.png" width="45%" height="45%" /> 
   <img src="./Pictures/InverseKinematic2.png" width="45%" height="45%" /> 
