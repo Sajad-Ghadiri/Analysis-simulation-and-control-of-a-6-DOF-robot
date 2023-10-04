@@ -11,13 +11,21 @@ Analysis, simulation and control of a six-degree-of-freedom robot
 ---
 - Classic & Modified Denavit-Hartenberg Parameter Table
 <p align="Left">
-  <img src="./Pictures/DenavitHartenbergParameterTables.png" width="50%" height="50%" /> 
+  <img src="./Pictures/DenavitHartenbergParameterTables.png" width="48%" height="48%" /> 
   <img src="./Pictures/ModifiedDenavitHartenbergParameterTables.png" width="45%" height="45%" /> 
 </p>
 
 ---
-Denavit-Hartenberg Parameter Tables
-
+## Inverse Kinematic
+- Calculating Inverse Kinematic with Geometric Method
+<p align="Left">
+  <img src="./Pictures/InverseKinematic1.png" width="45%" height="45%" /> 
+</p>
+<p align="Left">
+  <img src="./Pictures/InverseKinematic2.png" width="45%" height="45%" /> 
+  <img src="./Pictures/InverseKinematic3.png" width="48%" height="48%" /> 
+</p>
+---
 ## Contributers
 <table>
   <tr>
