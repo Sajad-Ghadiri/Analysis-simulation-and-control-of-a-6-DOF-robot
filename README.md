@@ -12,8 +12,6 @@ Analysis, simulation and control of a six-degree-of-freedom robot
 - Classic & Modified Denavit-Hartenberg Parameter Table
 <p align="Left">
   <img src="./Pictures/DenavitHartenbergParameterTables.png" width="40%" height="40%" /> 
-</p>
-<p align="Right">
   <img src="./Pictures/ModifiedDenavitHartenbergParameterTables.png" width="50%" height="50%" /> 
 </p>
 
