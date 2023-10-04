@@ -1,6 +1,15 @@
 # Analysis-simulation-and-control-of-a-6-DOF-robot
 Analysis, simulation and control of a six-degree-of-freedom robot
 
+## Simulation of robot
+---
+- Design and Simulation of robot using Solidworks
+<p align="center">
+  <img src="./Pictures/Assem1.JPG" /> 
+</p>
+
+---
+
 ## Contributers
 <table>
   <tr>
