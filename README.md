@@ -5,7 +5,7 @@ Analysis, simulation and control of a six-degree-of-freedom robot
 ---
 - Design and Simulation of robot using Solidworks
 <p align="center">
-  <img src="./Pictures/Assem1.png" /> 
+  <img src="./Pictures/System/Assem1.png" /> 
 </p>
 
 ---
